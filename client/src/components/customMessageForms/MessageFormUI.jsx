@@ -13,6 +13,8 @@ import {
     handleSubmit,
     appendText,
     handleKeyDown,
+    appendText,
+    handleKeyDown,
   }) => {
     const [preview, setPreview] = useState("");
   
